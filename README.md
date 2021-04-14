@@ -3,5 +3,5 @@ Test API implemented by ruby on rails
 
 # Init project
 ```bash
-$ rails new rorapi --api
+$ rails new rorapi --api -T
 ```
